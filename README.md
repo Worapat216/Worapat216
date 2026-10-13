@@ -98,9 +98,10 @@ A learning project focused on version control and profile customization.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=korapat216&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Worapat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korapat216&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?
+    username=Worapat&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB" height="165" alt="Most used languages"/>
 
 </div>
 
