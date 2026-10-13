@@ -49,7 +49,10 @@ class Developer:
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C"/>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
 
 ### TOOLS
 
