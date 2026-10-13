@@ -50,9 +50,11 @@ class Developer:
 ### LANGUAGES
 
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-<img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
+<
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="50"/>
+  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge" alt="Dev-C++" height="50"/>
+</p>
 
 ### TOOLS
 
@@ -74,7 +76,7 @@ class Developer:
 
 ### `// FINAL THOUGHT`
 
-> "Great things are built one step at a time."
+> "Don’t watch the clock; do what it does. Keep going."
 
 **Thanks for stopping by. Let's keep building.** 🚀
 
