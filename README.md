@@ -5,9 +5,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:6D28D9&height=210&section=header&text=WORAPAT&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20FUTURE%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Worapat profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Learning+Python+%26+C;Building+Ideas+Into+Projects;One+Step+Closer+Every+Day" alt="Typing introduction"/>
 <p align="center">
   Welcome to my GitHub profile!
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Learning+Python+%26+C;Building+Ideas+Into+Projects;One+Step+Closer+Every+Day" alt="Typing introduction"/>
+
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/korapat216)
