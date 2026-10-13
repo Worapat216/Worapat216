@@ -53,7 +53,7 @@ class Developer:
 
 ### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub and VS Code"/>
 
 </div>
 
