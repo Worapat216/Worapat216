@@ -25,19 +25,15 @@ class Developer:
     def __init__(self):
         self.name = "Worapat"
         self.role = "Computer Engineering Student"
-        self.university = "RMUTT"
+        self.university = "Rajamangala University of Technology Thanyaburi - RMUTT"
         self.learning = ["Python", "C", "Git"]
-        self.interests = [
-            "Technology",
-            "Problem Solving",
-            "Software Development"
-        ]
+        self.interests = ["Technology", "Problem Solving","Software Development" ]
 
     def motto(self):
         return "Learn. Build. Improve. Repeat."
 ```
 
-- 🎓 Studying Computer Engineering at **RMUTT**
+- 🎓 Studying Computer Engineering at **Rajamangala University of Technology Thanyaburi - RMUTT**
 - 💻 Exploring programming and software development
 - 🧠 Interested in solving problems through technology
 - 🎯 Goal: Build useful projects and become a better developer
