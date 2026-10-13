@@ -50,11 +50,11 @@ class Developer:
 ### LANGUAGES
 
 
-<
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="50"/>
-  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge" alt="Dev-C++" height="50"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
+
 
 ### TOOLS
 
