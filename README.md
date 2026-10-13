@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/korapat216)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
 
 </div>
 
@@ -53,7 +55,7 @@ class Developer:
 
 ### TOOLS
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub and VS Code"/>
 
 </div>
 
